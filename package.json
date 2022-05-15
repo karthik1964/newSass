@@ -1,0 +1,19 @@
+{
+  "name": "newsass",
+  "version": "0.0.1",
+  "description": "sass tuts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik1964/newSass.git"
+  },
+  "author": "karthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik1964/newSass/issues"
+  },
+  "homepage": "https://github.com/karthik1964/newSass#readme"
+}
